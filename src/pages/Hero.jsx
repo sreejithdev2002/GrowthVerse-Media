@@ -1,4 +1,5 @@
-import bgImage from "../assets/Images/bg.jpg";
+import bgImage from "../assets/Images/bg.avif";
+
 
 function Hero() {
   return (

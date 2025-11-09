@@ -1,4 +1,4 @@
-import testImage from "../assets/Images/testImage.jpeg";
+import testImage from "../assets/Images/testImage.avif";
 
 function CaseStudyCard({ data }) {
   return (
